@@ -1,10 +1,3 @@
-######################################################################################
-'''
---Jogo onde o programa vai gerar um número aleatório e vai pedir para o usuário
-adivinhar o número gerado.
---O usuário terá 4 tentativas para acertar o número
-'''
-######################################################################################
 import random #precisa para poder gerar o número aleatório
 import os # precisa para utilizar o comando de limpar a tela
 
